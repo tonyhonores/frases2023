@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 2rem;
+  text-align: center;
+  color: #333;
+  transition: background-color 1s ease;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-top: 50px;
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+button {
+  margin-top: 50px;
+  font-size: 1.5rem;
+  padding: 1,
+}
